@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptionesgra00kernuoft_0093.png"; bbox 0 0 2247 3355; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 49 2043 3177">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 49 2043 3177">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 49 2043 3177; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 49 2043 3177; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 318 3258 1890 3314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 318 3258 1890 3314">
+     <span class='ocr_line' id='line_1_2' title="bbox 318 3258 1890 3314; baseline -0.011 -5"><span class='ocrx_word' id='word_1_2' title='bbox 318 3275 497 3309; x_wconf 82' lang='lat' dir='ltr'>Arcesines</span> <span class='ocrx_word' id='word_1_3' title='bbox 523 3273 658 3314; x_wconf 80' lang='lat' dir='ltr'>Amorgi</span> <span class='ocrx_word' id='word_1_4' title='bbox 707 3271 751 3305; x_wconf 83' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_5' title='bbox 777 3280 866 3304; x_wconf 80' lang='lat' dir='ltr'>saec.</span> <span class='ocrx_word' id='word_1_6' title='bbox 891 3280 919 3303; x_wconf 82' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_7' title='bbox 946 3268 1021 3302; x_wconf 80' lang='lat' dir='ltr'>Chr.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1379 3264 1528 3305; x_wconf 67' lang='lat' dir='ltr'>Pergami</span> <span class='ocrx_word' id='word_1_9' title='bbox 1577 3262 1620 3295; x_wconf 81' lang='grc'><strong>111.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1647 3270 1735 3294; x_wconf 62' lang='lat' dir='ltr'><strong>saec,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1761 3270 1788 3293; x_wconf 73' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1815 3258 1890 3292; x_wconf 81' lang='lat' dir='ltr'>Chr.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
